@@ -25,7 +25,7 @@ We welcome contributions to KwikMart! If you'd like to contribute, please fork t
 KwikMart was developed as a group project by [Nimesh Rangana,Maleesha Herath,Pathum Vimukthi,Dananjaya Rupasinghe,Prageeth Madushan,Buddhi Sampath,Shanaka Priyanjith]. We would also like to thank [insert instructor/mentor names here] for their guidance and support.
 
 ## License
-KwikMart is open source software under the [insert license here]. Feel free to use, modify, and distribute the code as needed.
+KwikMart is open source. Feel free to use, modify, and distribute the code as needed.
 
 ### GUI
 ### Home Page
