@@ -22,7 +22,7 @@ To get started with KwikMart, simply download the project files and set up a loc
 We welcome contributions to KwikMart! If you'd like to contribute, please fork the repository and submit a pull request with your changes.
 
 ## Credits
-KwikMart was developed as a group project by [Nimesh Rangana,Maleesha Herath,Pathum Vimukthi,Dananjaya Rupasinghe,Prageeth Madushan,Buddhi Sampath,Shanaka Priyanjith]. We would also like to thank [insert instructor/mentor names here] for their guidance and support.
+KwikMart was developed as a group project by [Nimesh Rangana,Maleesha Herath,Pathum Vimukthi,Dananjaya Rupasinghe,Prageeth Madushan,Buddhi Sampath,Shanaka Priyanjith].
 
 ## License
 KwikMart is open source. Feel free to use, modify, and distribute the code as needed.
