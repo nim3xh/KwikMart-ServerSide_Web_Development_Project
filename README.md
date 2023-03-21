@@ -16,7 +16,7 @@ KwikMart is an e-commerce website designed and developed using PHP, SQL, HTML, C
 * JavaScript
 
 ## Getting Started
-To get started with KwikMart, simply download the project files and set up a local server using Apache and MySQL. You'll also need to create a database for the website to function properly.
+To get started with KwikMart, simply download the project files and set up a local server using Apache and MySQL. You'll also need to import database for the website to function properly.
 
 ## Contributing
 We welcome contributions to KwikMart! If you'd like to contribute, please fork the repository and submit a pull request with your changes.
